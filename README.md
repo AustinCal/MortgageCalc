@@ -1,0 +1,1 @@
+This is a Mortgage Calculator that I created in March 2024. This script allows you to choose from the median mortgage prices for Texas, Arkansas, and Oklahoma, or you can enter your own value. Once you input the price, interest rate, and loan term, it will calculate the mortgage payment without including PMI or taxes.
